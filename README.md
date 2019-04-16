@@ -6,4 +6,4 @@ OpenCV project to implement face detection using Haarcascades
 2.Pyton 3
 
 # Intruction
-To start run "python face_detection.py"
+To start run "python face_recoganition.py"
